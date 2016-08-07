@@ -1,4 +1,4 @@
 
-This code examples explain how the basic syntex of ruby work.The book that i
-am follwing is "Beginning Ruby"
+The code examples here  explains how the basic syntex of ruby works.The book that i
+am follwing is "Beginning Ruby."
 
