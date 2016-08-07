@@ -1,0 +1,2 @@
+$:.each { |d| puts d }
+
